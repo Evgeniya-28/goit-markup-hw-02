@@ -79,7 +79,7 @@ a {
 }
 .button-hero:hover,
 .button-hero:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .benefits-set {
   font-weight: 500;
