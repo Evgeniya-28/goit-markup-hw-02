@@ -78,7 +78,7 @@ a {
   cursor: pointer;
 }
 .button-hero:hover,
-..button-hero:focus {
+.button-hero:focus {
   color: #404bbf;
 }
 .benefits-set {
