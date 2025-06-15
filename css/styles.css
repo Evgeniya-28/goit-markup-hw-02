@@ -77,9 +77,9 @@ a {
   color: #ffffff;
   cursor: pointer;
 }
-.button-hero.hover,
-.button.focus {
-  background-color: #404bbf;
+.button-hero:hover,
+..button-hero:focus {
+  color: #404bbf;
 }
 .benefits-set {
   font-weight: 500;
